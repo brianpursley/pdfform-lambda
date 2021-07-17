@@ -1,0 +1,13 @@
+{
+  "name": "pdfform-lambda",
+  "version": "1.0.0",
+  "description": "Lambda function that populates a fillable PDF using specified field values",
+  "main": "index.js",
+  "author": "Brian Pursley",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "only": "0.0.2",
+    "pdfform.js": "^1.0.14"
+  }
+}

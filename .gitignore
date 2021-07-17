@@ -1,0 +1,10 @@
+**/node_modules/
+
+**/.terraform/
+
+*.tfstate
+*.tfstate.backup
+*.tfstate.lock.info
+*.tfvars
+
+**/_output/
