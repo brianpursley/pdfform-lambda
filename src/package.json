@@ -5,9 +5,16 @@
   "main": "index.js",
   "author": "Brian Pursley",
   "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
   "dependencies": {
     "node-fetch": "^2.6.1",
     "only": "0.0.2",
     "pdfform.js": "^1.0.14"
+  },
+  "devDependencies": {
+    "mocha": "^9.0.3",
+    "nock": "^13.1.1"
   }
 }
