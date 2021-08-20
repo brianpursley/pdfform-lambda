@@ -13,7 +13,7 @@ This project demonstrates creating a serverless application for populating filla
 ## Deploying
 
 ```
-td -chdir=tf apply
+tf -chdir=tf apply
 ```
 or
 ```
