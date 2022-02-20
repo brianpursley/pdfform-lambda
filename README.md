@@ -13,12 +13,12 @@ This project demonstrates creating a serverless application for populating filla
 ## Deploying
 
 ```
-tf -chdir=tf apply
+terraform -chdir=tf apply
 ```
 or
 ```
 cd tf
-tf apply
+terraform apply
 ```
 
 ## Usage
